@@ -35,7 +35,7 @@ ul {
     margin: 0;	
     padding: 0;
     overflow: hidden;		/*When the contents over flow the unordered list element, it will be hidden*/
-    background-color: #333;
+    background-color: #000;
 }
 
 li {
@@ -52,7 +52,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #333;
 }
 
 button {
@@ -109,6 +109,7 @@ a {
 
 .gcse_maths_papers_table {
     width: 100%;
+    height: 40%;
     border: 1px solid #ccc;
     margin: 0;
     padding: 0;
