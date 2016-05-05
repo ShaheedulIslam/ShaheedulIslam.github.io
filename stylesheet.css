@@ -87,6 +87,17 @@ html,body {
     background-color: #999;
 }
 
+
+.place_holder {
+    font-family: Arial;
+    font-size: 41px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+}
+
 button {
     background-color: #329CD2;
     font-size: 20px;
