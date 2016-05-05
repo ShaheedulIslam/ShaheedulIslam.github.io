@@ -171,3 +171,27 @@ a {
 .gcse_maths_papers_table tbody tr:nth-child(even) {
     background-color: #abd7ed;
 }
+
+.useful_links .title {
+    font-size: 25px;
+    font-family: Arial;
+    color: black;
+    margin-bottom: 6px;
+}
+
+.useful_links a {
+    text-decoration: none;
+    color: blue;
+    font-size: 13px;
+    font-family: Arial;
+}
+
+.useful_links a:hover {
+    text-decoration: underline;
+}
+
+.useful_links p {
+    text-decoration: none;
+    font-size: 13px;
+    font-family: Arial;
+}
