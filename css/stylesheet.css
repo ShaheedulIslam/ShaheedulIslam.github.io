@@ -70,6 +70,7 @@ html,body {
     text-decoration: none;
     display: block;
     text-align: left;
+    font-family: Arial;
 }
 
 /* Change color of dropdown links on hover */
