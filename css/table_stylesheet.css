@@ -17,7 +17,7 @@ html,body {
 }
 
 .feature .title{
-	font-size: 35px;
+	font-size: 30px;
 	font-family: Arial;
 	color: white;
 	margin-bottom: 1px;
@@ -25,7 +25,7 @@ html,body {
 
 
 .feature .slogan{
-	font-size: 19px;
+	font-size: 15px;
 	font-family: Arial;
 	color: white;
 }
@@ -33,15 +33,15 @@ html,body {
 .menu {
     width: 100%;
     background-color: #000;
-    height: 52px;
+    height: 40px;
 }
 
 /* Dropdown Button */
 .dropbtn {
     background-color: #000;
     color: white;
-    padding: 16px;
-    font-size: 16px;
+    padding: 12px;
+    font-size: 12px;
     border: none;
     cursor: pointer;
 }
