@@ -175,7 +175,7 @@ html,body {
     text-align: center;
 } 
 
-/*Every even row, the colour will change to a light purple*/
+/*Every even row the colour will change to a light purple*/
 .gcse_maths_papers_table tbody tr:nth-child(even) {
     background-color: #ce9fe0;
 }

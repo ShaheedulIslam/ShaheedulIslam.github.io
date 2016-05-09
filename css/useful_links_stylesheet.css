@@ -8,7 +8,7 @@ html,body {
     padding:0;
 }
 
-
+ /*----------------------- Feature Starts Here ------------------------------ */
 .feature {
     width: 100%;
     height: 80px;
@@ -16,6 +16,7 @@ html,body {
     text-align: center;
 }
 
+/*The title of the whole page "Maths 4 U"*/
 .feature .title{
     font-size: 30px;
     font-family: Arial;
@@ -23,13 +24,14 @@ html,body {
     margin-bottom: 1px;
 }
 
-
+/*The slogan of the  page "Providing maths resources for parents since 2003"*/
 .feature .slogan{
     font-size: 15px;
     font-family: Arial;
     color: white;
 }
 
+/*----------------------- Menu Starts Here ------------------------------ */
 .menu {
     width: 100%;
     background-color: #000;
@@ -89,6 +91,7 @@ html,body {
     background-color: #999;
 }
 
+/*----------------------- Main content of page Starts Here ------------------------------ */
 .useful_links {
     margin-left: 10px;
 }
