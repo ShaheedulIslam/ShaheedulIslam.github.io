@@ -1,5 +1,24 @@
+.section_title {
+    font-family: Arial;
+    font-size: 20px;
+}
 
-/*----------------------- Main content of page Starts Here ------------------------------ */
+.section_explanation {
+    font-family: Arial;
+    font-size: 13px;
+}
+
+.section_explanation a{
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 13px;
+    color: blue;
+}
+
+.section_explanation a:hover{
+    text-decoration: underline;
+}
+
 .useful_links {
     margin-left: 10px;
 }
