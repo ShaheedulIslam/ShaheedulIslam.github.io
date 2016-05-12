@@ -1,8 +1,10 @@
+/*Gets rid of the whitespace at the top of the page*/
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
     margin:0;
     padding:0;
 }
 
+/*Gets rid of the whitespace at the top of the page*/
 html,body {
     margin:0;
     padding:0;
@@ -30,6 +32,7 @@ html,body {
     font-family: Arial;
     color: white;
 }
+ /*----------------------- Feature Ends Here ------------------------------ */
 
 /*----------------------- Menu Starts Here ------------------------------ */
 .menu {
@@ -90,6 +93,7 @@ html,body {
 .dropdown:hover .dropbtn {
     background-color: #999;
 }
+/*----------------------- Menu Ends Here ------------------------------ */
 
 
 

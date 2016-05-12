@@ -1,32 +1,3 @@
-.link_button {
-    background-color: #E23B2D;
-    font-size: 20px;
-    border-radius: 3px;
-    transition-duration: 0.4s;
-    border: 1px solid #8B37AA;
-    border-collapse: collapse;
-    margin-bottom: 2px;
-    margin-top: 2px;
-}
-
-/*The buttons formatting for the link within the button*/
-.link_button a {
-    text-decoration: none;
-    color: black;
-}
-
-.link_button:hover {
-    background-color: white; 
-    color: black;
-}
-
-/*The link within the button*/
-.link_in_button {
-    text-decoration: none;
-    font-family: Arial;
-    font-size: 20px;
-    text-align: center;
-}
 
 /*----------------------- Table for past papers Starts Here ------------------------------ */
 .table {
@@ -61,4 +32,39 @@
 .table tbody tr:nth-child(even) {
     background-color: #f0978f;
 }
+/*----------------------- Table for past papers Ends Here ------------------------------ */
+
+/*----------------------- Buttons Start Here ------------------------------ */
+.link_button {
+    background-color: #E23B2D;
+    font-size: 30px;
+    border-radius: 3px;
+    transition-duration: 0.4s;
+    border: 1px solid #8B37AA;
+    border-collapse: collapse;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+/*The buttons formatting for the link within the button*/
+.link_button a {
+    text-decoration: none;
+    color: black;
+}
+
+.link_button:hover {
+    background-color: white; 
+    color: black;
+}
+
+/*The link within the button*/
+.link_in_button {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+}
+/*----------------------- Buttons End Here ------------------------------ */
+
+
 
