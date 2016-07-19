@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	font-family: Arial;
+	color: white;
+	text-align: center;
+}
+
+p {
+	font-family: Arial;
+	color: white;
+	text-align: center;
+}
+
+.table {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+
+.tableBody tr td{
+	border: 2px solid white;
+	width: 150px;
+	height: 150px;
+	font-family: Arial;
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}
